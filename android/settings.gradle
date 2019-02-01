@@ -1,0 +1,3 @@
+rootProject.name = 'isafeapp'
+
+include ':app'
